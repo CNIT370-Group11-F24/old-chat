@@ -1,0 +1,2 @@
+{"blockedFriends":[],"friendRequests":["456"],"friends":[],"isBlocked":false,"isFrend":false,"isRequest":false,"messages":[],"password":"123456!","username":"123"}
+{"blockedFriends":[],"friendRequests":[],"friends":[],"isBlocked":false,"isFrend":false,"isRequest":false,"messages":[],"password":"123456!","username":"456"}
